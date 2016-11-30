@@ -13,3 +13,4 @@ Clone the repo, then open your terminal, change to the project directory, and:
 ###What I Learned###
 * Routing in React
 * Form validation in Redux
+* development process of react-redux method
